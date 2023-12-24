@@ -1,0 +1,39 @@
+body{
+background-color: green;
+font-family: Arial, Helvetica, sans-serif;
+max-width: 1200px;
+margin: 0 auto;
+border-radius: 5px;
+border: 1px solid add;
+}
+
+h1 ,h2,h4,h3{
+    text-align: center;
+text-decoration: underline;
+font-family: Arial, Helvetica, sans-serif;
+margin-bottom: 10px;
+}
+
+p{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+div,a{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+ul,li {
+    padding: 2em;
+    text-decoration: underline;
+}
+ul,img{
+    max-width:100% ;
+}
+
+
